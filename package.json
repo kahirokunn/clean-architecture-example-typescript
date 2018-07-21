@@ -1,0 +1,30 @@
+{
+  "name": "clean-architecture-example-typescript",
+  "version": "0.0.1",
+  "description": "study clean architecture",
+  "main": "src/ui/test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-okina/clean-architecture-example-typescript.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k-okina/clean-architecture-example-typescript/issues"
+  },
+  "homepage": "https://github.com/k-okina/clean-architecture-example-typescript#readme",
+  "dependencies": {
+    "@types/node": "^10.5.2",
+    "axios": "^0.18.0",
+    "ts-node": "^7.0.0",
+    "tslib": "^1.9.3",
+    "typescript": "^2.9.2"
+  },
+  "devDependencies": {
+    "ts-type-info": "^7.0.1",
+    "tsconfig-paths": "^3.4.2"
+  }
+}

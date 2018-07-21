@@ -19,6 +19,7 @@
   "dependencies": {
     "@types/node": "^10.5.2",
     "axios": "^0.18.0",
+    "redux": "^4.0.0",
     "ts-node": "^7.0.0",
     "tslib": "^1.9.3",
     "typescript": "^2.9.2"
